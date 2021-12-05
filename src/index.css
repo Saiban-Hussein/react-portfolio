@@ -385,7 +385,7 @@ textarea {
 	padding: 80px;
 }
 
-/* Viewports Styling start*/
+
 @media screen and (max-width: 980px) {}
 
 @media screen and (max-width: 817px) {
@@ -450,4 +450,3 @@ textarea {
 
 @media screen and (max-width: 575px) {}
 
-/* Viewports Styling end*/
