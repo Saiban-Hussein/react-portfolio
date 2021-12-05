@@ -7,7 +7,7 @@ function Header(props) {
 	return (
 		<header>
 			<div>
-			<a href="./index.js"><h2>Saiban Hussein</h2></a> 
+			<h2>Saiban Hussein</h2> 
 			</div>
 			<div>
 				<Navigation
